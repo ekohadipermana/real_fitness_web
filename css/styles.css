@@ -15,14 +15,36 @@ nav {
     width: 70%;
     float: right;
     margin: 5em 3em 0 0;
-    display: inline-block;
 }
 
 nav li {
-    
+    list-style-type: none;
+    display: inline-block;
+    padding: 2%;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.5em;
     
 }
 
 main {
     clear: left;
+    background-color: #fff;
+    padding: 1%;
+    font-size: 1.25em;
+}
+
+footer {
+    color: #fff;
+    font-size: 1em;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+    font-size: 1em;
+    text-decoration: none;
 }
