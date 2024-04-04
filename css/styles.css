@@ -14,7 +14,7 @@ header {
 nav {
     width: 70%;
     float: right;
-    margin: 5em 3em 0 0;
+    margin: 8em 3em 0 0;
 }
 
 nav li {
@@ -47,4 +47,15 @@ footer a {
     color: #fff;
     font-size: 1em;
     text-decoration: none;
+}
+
+#weights, #cardio, #training {
+    width: 29%;
+    float: left;
+    margin: 0 2%;
+}
+
+#exercises {
+    clear: left;
+    border-top: 1px solid #000;
 }
