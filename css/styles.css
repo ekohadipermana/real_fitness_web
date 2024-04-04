@@ -79,3 +79,7 @@ footer a {
     color: #666600;
     text-decoration: none;
 }
+
+.map {
+    border: 8px solid #000;
+}
